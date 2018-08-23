@@ -8,7 +8,7 @@ L'intérêt de l'app est l'utilisation de Javascript et plus particulièrement J
 
 ## Comment démarrer ?
 
-Il suffit de cliquer sur ce lien pour voir l'app en production : https://startup-foodtech-diane.herokuapp.com/.
+Il suffit de cliquer sur ce lien pour voir l'app en production : https://mailer-viewer-diane.herokuapp.com/emails.
 
 Sinon, il suffit de clone ou download le dossier et de run bundle install.
 
