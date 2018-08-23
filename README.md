@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ajax
 
-Things you may want to cover:
+Cette app Ruby on rails est une appli qui utilise Ajax. Elle a été conçue par Diane.
 
-* Ruby version
+L'intérêt de l'app est l'utilisation de Javascript et plus particulièrement JQuery.
 
-* System dependencies
+## Comment démarrer ?
 
-* Configuration
+Il suffit de cliquer sur ce lien pour voir l'app en production : https://startup-foodtech-diane.herokuapp.com/.
 
-* Database creation
+Sinon, il suffit de clone ou download le dossier et de run bundle install.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Les versions de Ruby et Rails doivent être respectivement 2.5.1 et 5.2.1.
